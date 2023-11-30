@@ -23,7 +23,7 @@ body {
   
   nav ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #ff1212;
   }
   
   .dropdown-content {
@@ -32,7 +32,7 @@ body {
     background-color: #333;
     box-shadow: 0 8px 16px rgba(0,0,0,0.2);
     display: block;
-    p
+    
   }
   
   .dropdown:hover  .dropdown-content {
